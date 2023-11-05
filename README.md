@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emily Goodrich
 - 👀 I’m interested in getting a job lol
-- 🌱 I’m currently learning React and C++
+- 🌱 I’m currently learning React and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
